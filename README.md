@@ -1,5 +1,5 @@
 # 한류미디어 카드 미리보기
 
-최근 카드: NR033
+최근 카드: NR036
 
 ![1](https://raw.githubusercontent.com/jang2269/kanryu-preview/main/card-01.png)
